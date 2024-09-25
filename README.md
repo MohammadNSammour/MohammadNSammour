@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MohammadNSammour
+- 👀 I’m interested in --> Technology 😊
+- 🌱 I’m currently learning --> Information Technology
+- 📫 How to reach me-->on my facebook or whatsapp
+- ⚡ Fun fact --> I'm IT and the joke here an IT students have a life,just stop man you kill me🤣🤣🤣🤣🤣🤣💔
