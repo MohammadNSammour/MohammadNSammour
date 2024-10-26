@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning --> Information Technology major
 - --I have a knowledge of C++ and C# 👍
 - 📫 How to reach me-->on my facebook or whatsapp
-- ⚡ Fun fact --> I'm IT and the joke here an IT students have a life,just stop man you kill me🤣🤣🤣🤣🤣🤣💔
+- ⚡ Fun fact --> I'm IT and the joke here an IT students have a life,sorry to say that but DON'T tell such lies again.🙂👍
