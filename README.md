@@ -1,4 +1,4 @@
-#Welcome to my profile😊
+# Welcome to my profile😊
 - 👋I’m Mohammad nafiz sammour -@MohammadNSammour-
 - 👀 I’m interested in --> Technology in everything💻
 - 🌱 I’m currently learning --> Information Technology major
