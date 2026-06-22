@@ -1,6 +1,6 @@
 # Welcome to my profile😊
 # 👋 Hi, I'm Mohammad Nafiz Sammour
-An IT Specialist & Software Programmer driven by turning complex logic into smooth, high-performance systems. Welcome to my digital workspace! 🇵🇸
+An IT Specialist & Software Programmer driven by turning complex logic into smooth, high-performance systems. Welcome to my digital workspace!
 
 ---
 
