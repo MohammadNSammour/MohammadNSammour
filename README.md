@@ -29,7 +29,8 @@ An IT Specialist & Software Programmer driven by turning complex logic into smoo
 
 ### 📫 Connect With Me
 I'm always open to talking about new projects, technical challenges, or open-source collaborations.
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 💼 **LinkedIn:** You can found it in the links here.
 * 📬 **Reach Me:** Feel free to connect via my Facebook or Instagram.
 
 ---
+# Nice to meet you,Have a good day!❤️😊
