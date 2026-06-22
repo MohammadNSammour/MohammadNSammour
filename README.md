@@ -1,7 +1,35 @@
 # Welcome to my profile😊
-- 👋I’m Mohammad nafiz sammour -@MohammadNSammour-
-- 👀 I’m interested in --> Technology in everything💻
-- 🌱 I’m currently learning --> Information Technology major
-- --I have a knowledge in many aspects in IT🙂‍↔️
-- 📫 How to reach me-->on my facebook or Instagram 
-- ⚡ Fun fact --> I'm IT and the joke here an IT students have a life,sorry to say that but DON'T tell such lies again.😅👍
+# 👋 Hi, I'm Mohammad Nafiz Sammour
+An IT Specialist & Software Programmer driven by turning complex logic into smooth, high-performance systems. Welcome to my digital workspace! 🇵🇸
+
+---
+
+### 🚀 About Me
+* **👀 My Focus:** Designing robust software architectures and crafting high-quality mobile experiences primarily using **Flutter & Dart**.
+* **🌱 Education:** Recently graduated with a Bachelor's degree in **Information Technology** from Palestine Ahliya University.
+* **💡 Philosophy:** I don't just write code; I design scalable systems from scratch. I have a deep knowledge of various IT aspects, database management, and system infrastructure.
+
+---
+
+### 💻 My Technical Toolkit
+
+* **Mobile:** `Flutter` | `Dart`
+* **Web & Backend:** `PHP` | `JavaScript` | `HTML` | `CSS`
+* **Core Languages:** `C#` | `Java` | `Python`
+* **Systems:** `System Design` | `Software Architecture` | `Network Infrastructure`
+
+---
+
+### ⚡ Fun Fact
+> **Myth:** IT students actually have a social life.
+
+> **Fact:** We don't. Please stop telling such lies, it hurts our compiler. 😅💻
+
+---
+
+### 📫 Connect With Me
+I'm always open to talking about new projects, technical challenges, or open-source collaborations.
+* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 📬 **Reach Me:** Feel free to connect via my Facebook or Instagram.
+
+---
