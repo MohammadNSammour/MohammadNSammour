@@ -1,3 +1,4 @@
+# Welcome to my profile!😊 
 # 👋 Hi, I'm Mohammad Nafiz Sammour
 
 **Junior Software Developer | IT Graduate**
