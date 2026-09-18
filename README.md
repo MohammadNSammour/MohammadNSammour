@@ -23,13 +23,13 @@ I'm currently focused on growing as a **Software & Web Developer**, while expand
 ## 💻 Tech Stack
 
 ### Programming
-`C#` `Python` `JavaScript` `PHP` `SQL`
+`C#` `Python` `JavaScript` `PHP` `SQL` `Java` `Dart`
 
 ### Web
 `HTML` `CSS` `JavaScript` `PHP`
 
 ### Databases
-`MySQL` `SQLite` `SQL`
+`MySQL` `SQLite` 
 
 ### Currently Learning
 `PostgreSQL` `Node.js` `Express.js` `React` `PERN`
